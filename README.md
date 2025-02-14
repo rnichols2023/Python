@@ -49,5 +49,5 @@
 - [Problem 2 Graphs](https://github.com/rnichols2023/Python/blob/main/City%20Population(1).png)
 ### Problem 3: Using the iris dataset in seaborn, create a figure with 2 subplots: Subplot 1 should be a histogram showing the distribution of petal lengths, and Subplot 2 should be a box plot displaying the sepals lengths grouped by species.  Add a title to both subplots,"Iris Dataset Visualizations". Each subplot should have appropriately labeled axes.  Adjust the size of each subplot to fit nicely in the figure.  
 - [Iris Data Set](https://github.com/rnichols2023/Python/blob/main/iris.csv)
-- [Iris Data Set Code](https://github.com/rnichols2023/Python/blob/main/MatPlotLib_Challenge3.py)
-- [Iris Data Set Graphs](https://github.com/rnichols2023/Python/blob/main/Iris%20Dataset%20Visualizations(1).png)
+- [Problem 3 Code](https://github.com/rnichols2023/Python/blob/main/MatPlotLib_Challenge3.py)
+- [Problem 3 Graphs](https://github.com/rnichols2023/Python/blob/main/Iris%20Dataset%20Visualizations(1).png)
