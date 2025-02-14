@@ -27,7 +27,7 @@
 [Finding the max() and mean()](https://github.com/rnichols2023/Python/blob/main/numpy9.py)\
 [Finding the min() and max()](https://github.com/rnichols2023/Python/blob/main/numpy10.py)
 ## Pandas
-### Many files use the Tips Data Set, which can be found below.
+### Many files use the Tips Data Set, which can be found below:
 [Tips Data Set](https://github.com/rnichols2023/Python/blob/main/tips.csv)\
 [Setting an index in a Pandas Series](https://github.com/rnichols2023/Python/blob/main/pandas1.py)\
 [Using .drop to Delete Columns in the Tips Dataset to a Specific Variable](https://github.com/rnichols2023/Python/blob/main/pandas2.py)\
