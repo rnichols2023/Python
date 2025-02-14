@@ -42,4 +42,5 @@
 [In the Tips Data Set: Group tips by day and smoker columns and aggregate tips sum by both](https://github.com/rnichols2023/Python/blob/main/pandas11.py)
 ## MatPlotLib
 ### Problem 1: Import Matplotlib's pyplot and generate a simple line chart plotting the values [1, 2, 3, 4, 5] on the y axis and the values [0, 1, 2, 3, 4] on the x axis.  Add a title, "Simple Line Chart" and label the x and y axes appropriately.
-[Problem 1 Code](
+[Problem 1 Code](https://github.com/rnichols2023/Python/blob/main/MatPlotLib_Challenge1.py)
+[Problem 1 Graph](
