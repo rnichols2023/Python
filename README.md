@@ -16,7 +16,7 @@
 [Returning the Product](https://github.com/rnichols2023/Python/blob/main/functions5.py)
 [Printing the Loop in Range](https://github.com/rnichols2023/Python/blob/main/functions6.py)
 ## Numpy
-[Creating an Array](https://github.com/rnichols2023/Python/blob/main/numpy1.py)
+[Creating an Array](https://github.com/rnichols2023/Python/blob/main/numpy1.py)/
 [Creating and Slicing a Multidimensional Array](https://github.com/rnichols2023/Python/blob/main/numpy2.py)
 [Selecting an Element in a Multidimensional Array](https://github.com/rnichols2023/Python/blob/main/numpy3.py)
 [Random 3x5 Array](https://github.com/rnichols2023/Python/blob/main/numpy4.py)
