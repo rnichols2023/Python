@@ -44,3 +44,6 @@
 ### Problem 1: Import Matplotlib's pyplot and generate a simple line chart plotting the values [1, 2, 3, 4, 5] on the y axis and the values [0, 1, 2, 3, 4] on the x axis.  Add a title, "Simple Line Chart" and label the x and y axes appropriately.
 [Problem 1 Code](https://github.com/rnichols2023/Python/blob/main/MatPlotLib_Challenge1.py)\
 [Problem 1 Graph](https://github.com/rnichols2023/Python/blob/main/Simple%20Line%20Chart(1).png)
+### Problem 2: Using Matplotlib, create a figure with 2 subplots displaying data on city population. Subplot 1 should show a bar chart with the population of 5 cities: City Names: Toronto, Chicago, Houston, Phoenix, Philadelphia. Population in millions: 6, 8, 5, 3, 2. Subplot 2 should display a pie chart showing the fraction of the total population for each of the 5 cities. Add a title "City Population" to the entire figure. Add a legend to the pie chart. Customize the colors used. Adjust the size of each subplot to fit nicely. Label each subplot and axes appropriately.
+[Problem 2 Code](https://github.com/rnichols2023/Python/blob/main/MatPlotLib_Challenge2.py)\
+[Problem 2 Graphs](https://github.com/rnichols2023/Python/blob/main/City%20Population(1).png)
