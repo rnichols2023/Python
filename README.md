@@ -3,4 +3,4 @@
 
 # Table of Contents
 ## Basics in Python
-
+[Input Example](#python3.py)
