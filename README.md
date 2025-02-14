@@ -3,5 +3,5 @@
 
 # Table of Contents
 ## Basics in Python
-(#https://github.com/rnichols2023/Python/blob/main/python3.py)[Input Example]  
-
+[Input Example]
+(#https://github.com/rnichols2023/Python/blob/main/python3.py)
